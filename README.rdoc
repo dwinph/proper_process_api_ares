@@ -1,0 +1,3 @@
+== proper_process_api_ares
+
+API Wrapper for {Proper Process}[http://properprocess.com] using ActiveResource
