@@ -5,7 +5,7 @@ require "proper_process_api_ares/version"
 Gem::Specification.new do |s|
   s.name        = "proper_process_api_ares"
   s.version     = ProperProcessApiAres::VERSION
-  s.authors     = ["Aldwin"]
+  s.authors     = ["Aldwin Ibuna"]
   s.email       = ["aibuna@gmail.com"]
   s.homepage    = "https://github.com/dwinph/proper_process_api_ares"
   s.summary     = %q{API wrapper for Proper Process API using ActiveResource}
