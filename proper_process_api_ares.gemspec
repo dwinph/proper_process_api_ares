@@ -5,9 +5,9 @@ require "proper_process_api_ares/version"
 Gem::Specification.new do |s|
   s.name        = "proper_process_api_ares"
   s.version     = ProperProcessApiAres::VERSION
-  s.authors     = ["Aldwin Ibuna"]
+  s.authors     = ["Aldwin"]
   s.email       = ["aibuna@gmail.com"]
-  s.homepage    = "http://aldwinibuna.com"
+  s.homepage    = "https://github.com/dwinph/proper_process_api_ares"
   s.summary     = %q{API wrapper for Proper Process API using ActiveResource}
   s.description = %q{API wrapper for Proper Process API using ActiveResource}
 
@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # specify any dependencies here; for example:
-  # s.add_development_dependency "rspec"
+  s.add_development_dependency "fakeweb"
   # s.add_runtime_dependency "rest-client"
 end
